@@ -2,7 +2,7 @@
 
 ### Qs. What is the value of age after this code runs?
 
-```javascript
+```js
 let age = 23;
 age + 2; //after 2 years
 ```
