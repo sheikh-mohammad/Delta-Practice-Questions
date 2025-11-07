@@ -1,4 +1,4 @@
-# Practice Qs
+# Practice Qs 1
 
 ## Qs. What is the value of avg after this code runs?
 
