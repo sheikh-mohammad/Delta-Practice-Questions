@@ -1,4 +1,4 @@
-```javascript
+```js
 let age = 23;
 age + 2; //after 2 years
 ```
